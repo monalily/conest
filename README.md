@@ -1,2 +1,3 @@
 # conest
-using flexbox to design and build the layout for a company(fake)’s homepage.
+
+using flexbox to design and build the layout for an imaginaged company's homepage.
